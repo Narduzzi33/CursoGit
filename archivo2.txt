@@ -1,1 +1,2 @@
-Documento2, cambio1.
+Documento2, cambio1.git
+otraCambio
